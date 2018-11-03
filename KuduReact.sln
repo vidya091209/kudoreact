@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KuduReact", "KuduReact\KuduReact.csproj", "{306202C3-8389-48C5-9AC5-02CA0B56EB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306202C3-8389-48C5-9AC5-02CA0B56EB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306202C3-8389-48C5-9AC5-02CA0B56EB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306202C3-8389-48C5-9AC5-02CA0B56EB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306202C3-8389-48C5-9AC5-02CA0B56EB34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139BA7DE-6C5D-4683-B4A5-20D592B1353A}
+	EndGlobalSection
+EndGlobal
